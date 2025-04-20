@@ -3,6 +3,8 @@
 A project focused on creating a mini ETL Pipeline to get started with Data Engineering.
 
 ## Architecture Diagram
+![mini_etl](https://github.com/user-attachments/assets/9ce0c249-ba1d-47b2-b5e7-d285bcca6877)
+
 
 ## Description
 
